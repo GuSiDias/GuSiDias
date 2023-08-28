@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gustavo Silva</h1>
 <h3 align="center">Studying FullStack java bootcamp at GenerationBrasil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gusidias" alt="gusidias" /></a> </p>
-
 - 🔭 I’m currently working on [Projeto É de todos](https://github.com/GuSiDias/Projeto_E_de_Todos)
 
 - 🌱 I’m currently learning **JavaScript, React, Node.js, Spring**
@@ -19,7 +17,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gusidias&show_icons=true&locale=en" alt="gusidias" /></p>
 
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=gusidias&show_icons=true&locale=en" alt="gusidias" /></p>
 
 
