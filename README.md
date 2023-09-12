@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Silva</h1>
 <h3 align="center">Studying FullStack java bootcamp at GenerationBrasil</h3>
 
-- 🔭 I’m currently working on [Projeto É de todos](https://github.com/GuSiDias/Projeto_E_de_Todos)
+- 🔭 I’m currently working on [Projeto É de todos](https://github.com/Projeto-Integrador-E-de-Todos))
 
 - 🌱 I’m currently learning **JavaScript, React, Node.js, Spring**
 
