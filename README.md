@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Silva</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I was working on [ScrimZone](https://github.com/Projeto-Integrador-E-de-Todos)
+- 🔭 I was working on [Site Gallus](https://github.com/GuSiDias/Site-Gallus)
 
 - 🌱 I’m currently learning **Angular, React Native**
 
